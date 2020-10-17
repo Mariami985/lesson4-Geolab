@@ -1,0 +1,150 @@
+/*Header*/
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+}
+.header-wraper{
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 20px;
+	font-size: 22px;
+
+}
+.active{
+	color: #EE4036;
+}
+/*section 1*/
+.section-wraper{
+	margin-left: 98px;
+	margin-right: 98px;
+}
+.image1{
+	margin-top: 77px;
+	margin-bottom: 118px;
+}
+.text{
+	color: #000000;
+	font-size: 24px;
+	margin-bottom: 30px;
+	font-family: 'Fjalla One', sans-serif;
+}
+.box1{
+	background-color: #F2F2F2;
+	width: 570px;
+	display: inline-block;
+	padding: 26px;
+	margin-bottom: 72px;
+}
+.box1 img{
+	display: inline-block;
+	vertical-align:middle;
+	margin-top: 13px;
+}
+.box1 p{
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+	color: #58595B;
+	margin-left: 40px;
+}
+.text1{
+	color: #3D58A6;
+	font-size: 22px;
+	margin-top: 12px;
+	margin-left: 26px;
+	color:#333333;
+	font-family: 'Fjalla One', sans-serif;
+    font-family: 'Sansita Swashed', cursive;
+}
+/*article*/
+
+.date{
+	width: 52px;
+	height: 64px;
+	background-color: #3D58A6;
+	margin-top: 45px;
+	margin-bottom: 30px; 
+}
+.article-wraper{
+	margin-left: 30px; 
+	margin-right:98px;
+}
+.text2{
+	font-size: 22px;
+	color:#3D58A6; 
+}
+.text3{
+    font-family: 'ALK Life';
+	margin-top: 35px;
+	font-size: 20px;
+	color: #000000;
+}
+.image-article{
+	display: inline-block;
+	margin-top: 18px;
+}
+.p-article{
+    font-family: 'ALK Life';
+	display: inline-block;
+	width: 700px;
+	font-size: 16px;
+	color: #000000;
+	vertical-align:top;
+	margin-top: 18px;
+	margin-left: 20px;
+	margin-bottom: 72px;
+
+}
+.text4{
+	margin-top: 10px;
+	margin-bottom: 10px
+}
+/*contact*/
+.contact{
+	margin-left: 86px;
+	background-color: #E6E6E6;
+	margin-bottom: 10px;
+	padding: 50px;
+}
+.title-contact{
+	display: inline-block;
+	vertical-align: top;
+	
+	margin-left: 90px;
+}
+.title10{
+	font-size: 20px; 
+	color:#3D58A6;
+	margin-bottom: 10px;
+}
+.title_15{
+	font-size: 16px;
+	color: #808080;
+	margin-bottom: 10px;
+}
+.map{
+	display: inline-block;
+	margin-left: 40px;
+
+}
+.map iframe{
+	width: 500px;
+	height: 466px;
+
+}
+.container{
+	width: 1170px;
+	/*margin-left: auto;
+	margin-right: auto;*/
+	margin:0 auto;
+}
