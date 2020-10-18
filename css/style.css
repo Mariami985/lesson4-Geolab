@@ -1,3 +1,8 @@
+/*Base clases */
+.d-inline-block{
+	display: inline-block;
+}
+
 /*Header*/
 .logo{
 	display: inline-block;
@@ -154,4 +159,19 @@
 	margin-right: auto;*/
 	margin:0 auto;
 	line-height: 1.5;
+}
+
+/*footer*/
+.fb,
+.Youtube {
+	display: inline-block;
+}
+
+.fb::after {
+	content: '';
+	width: 2px;
+	height: 30px;
+	background-color: #3D58A6;
+	display: inline-block;
+	margin: 0 30px;
 }
