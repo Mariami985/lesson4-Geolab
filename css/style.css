@@ -5,7 +5,7 @@
 
 /*Header*/
 .logo{
-	display: inline-block;
+	
 	vertical-align: middle;
 	margin-right: 50px;
 }
@@ -14,12 +14,12 @@
 	margin-left: 30px;
 }
 .navigation{
-	display: inline-block;
+	
 	vertical-align: middle;
 	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
 .nav-li{
-	display: inline-block;
+	
 	margin-right: 20px;
 	font-size: 22px;
 
@@ -46,7 +46,6 @@
 .box1{
 	background-color: #F2F2F2;
 	width: 570px;
-	display: inline-block;
 	padding: 26px;
 	margin-bottom: 72px;
 }
@@ -101,7 +100,6 @@
 	color: #000000;
 }
 .image-article{
-	display: inline-block;
 	margin-top: 18px;
 }
 .p-article{
@@ -128,7 +126,6 @@
 	padding: 50px;
 }
 .title-contact{
-	display: inline-block;
 	vertical-align: top;
 	
 	margin-left: 90px;
@@ -144,7 +141,6 @@
 	margin-bottom: 10px;
 }
 .map{
-	display: inline-block;
 	margin-left: 40px;
 
 }
@@ -162,10 +158,6 @@
 }
 
 /*footer*/
-.fb,
-.Youtube {
-	display: inline-block;
-}
 
 .fb::after {
 	content: '';
